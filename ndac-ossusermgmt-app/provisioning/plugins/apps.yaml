@@ -1,0 +1,5 @@
+apiVersion: 1
+
+apps:
+  - type: 'ndac-ossusermgmt-app'
+    disabled: false
